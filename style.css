@@ -1,0 +1,111 @@
+/* button{
+    border:  2px solid  black;
+    border-radius: 10px;
+    /* padding-left: 25px;
+    padding-right: 25px; */
+    /* padding: 10px 25px; */
+/* } */
+
+/* #outer{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+
+}
+#green{
+    background-color: green;
+} */
+/* .card1{ */
+    /* width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    margin-top: 30px; */
+/* } */
+/* img{
+    width: 100%;
+    border-radius: 5px 5px 0 0 ;
+} */
+
+ /* .card2{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+} */
+
+ /* .face{
+    width: 400px;
+    height: 400px;
+    background-color: #ffa511;
+    border-radius: 50%;
+
+ }
+ .mouth{
+    width: 200px;
+    height: 75px;
+    background-color:brown;
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+ }
+
+ .left-eye, .right-eye{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+
+ }
+ .right-eye{
+    left: 250px;
+ } */
+
+ #container{
+    height: 500px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+ }
+
+ h2{
+    text-align: center;
+ }
+ #container div{
+    height: 100px;
+    width: 300px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.5em;
+ }
+ h1{
+    background-color: red;
+ }
